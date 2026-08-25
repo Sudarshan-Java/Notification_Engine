@@ -30,7 +30,7 @@ public class NotificationBatchScheduler {
 
     @Scheduled(fixedDelayString = "${notification.batch.interval}")
     public void runBatch() {
-        System.out.println("[Batch] Trigger at " + LocalDateTime.now());
+        System.out.println("[Batch] AUTO-DEPLOY TEST 2 - Trigger at " + LocalDateTime.now());
         List<NotificationResponseDTO> ready = client.getReadyNotifications();
         if (ready == null || ready.isEmpty()) return;
 
