@@ -1,15 +1,7 @@
 Notification System (two services)
 
 
-hjvsgdhcgvsdghcvgshc hgcvhgsxvcgvsdc scvgtvc ASCvfsdgdcv BVC HJCgvDGSHVC
-
-
-Sudarshan Khot dsgvccsXHGSDCDC SHGCFHGSCGHX
-
-Sudarshan Khot
-Sudarshan Khot
-Sudarshan Khot
-Sudarshan Khot
+Pradeep Sankonatti is Software Engineering
 
 
 Services:
